@@ -25,6 +25,7 @@ This project demonstrates how I use SQL to answer common Revenue Strategy & Oper
 - Churn-risk identification for high-usage customers
 - Competitor-sourced account targeting
 - Revenue trends by segment and month
+- Revenue efficiency and utilization optimization (revenue per shift, unfilled demand)
 
 ## How to Run
 ```bash
