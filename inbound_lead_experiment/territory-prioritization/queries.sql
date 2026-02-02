@@ -18,7 +18,7 @@ SELECT
 
 FROM shifts
 GROUP BY region
-HAVING shifts_total >= 5
+HAVING shifts_total >= 3
 ORDER BY revenue_upside_score DESC;
 
 -- B) Month-over-month territory trend (supports planning)
