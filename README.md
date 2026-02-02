@@ -6,6 +6,8 @@ This project demonstrates how I use SQL to answer common Revenue Strategy & Oper
 - Which high-utilization customers show churn risk signals?
 - How revenue trends by segment over time
 - How to build clean, repeatable analysis for decision-making
+- Inbound lead growth measurement using SQL A/B testing (+75% lift target)
+
 
 ## Tools
 - SQL (SQLite)
