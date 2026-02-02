@@ -8,7 +8,7 @@ Improve revenue without increasing acquisition spend by identifying operational 
 - Which customers produce the highest revenue per shift?
 - Where do repeated unfilled shifts signal supply–demand friction?
 - How stable is revenue month-over-month?
-- Revenue efficiency and utilization optimization (revenue per shift, unfilled demand)
+
 
 
 ## Impact
