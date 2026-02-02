@@ -26,6 +26,9 @@ This project demonstrates how I use SQL to answer common Revenue Strategy & Oper
 - Competitor-sourced account targeting
 - Revenue trends by segment and month
 - Revenue efficiency and utilization optimization (revenue per shift, unfilled demand)
+- Territory prioritization scoring to guide country-wide sales focus (revenue upside + fill gaps)
+- Outbound email strategy using SQL lead scoring and a prioritized daily outreach queue
+
 
 ## How to Run
 ```bash
