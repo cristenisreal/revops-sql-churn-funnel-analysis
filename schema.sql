@@ -17,6 +17,7 @@ CREATE TABLE shifts (
   shift_date TEXT NOT NULL,
   filled INTEGER NOT NULL,
   revenue_usd REAL NOT NULL,
+  region TEXT NOT NULL,
   FOREIGN KEY (customer_id) REFERENCES customers(customer_id)
 );
 
