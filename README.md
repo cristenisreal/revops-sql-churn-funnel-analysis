@@ -1,0 +1,31 @@
+# Revenue Operations SQL: Churn, Funnel, and Experiment Analysis
+
+This project demonstrates how I use SQL to answer common Revenue Strategy & Operations questions, including:
+
+- Which outbound experiment variant performs better?
+- Which high-utilization customers show churn risk signals?
+- How revenue trends by segment over time
+- How to build clean, repeatable analysis for decision-making
+
+## Tools
+- SQL (SQLite)
+- Relational modeling
+- Funnel analysis
+- KPI reporting
+
+## Project Structure
+- `schema.sql` – database schema
+- `seed.sql` – sample data
+- `queries.sql` – analysis queries
+
+## Example Questions Answered
+- Funnel conversion rates (sent → open → reply)
+- Churn-risk identification for high-usage customers
+- Competitor-sourced account targeting
+- Revenue trends by segment and month
+
+## How to Run
+```bash
+sqlite3 revops.db < schema.sql
+sqlite3 revops.db < seed.sql
+sqlite3 -header -column revops.db < queries.sql
